@@ -29,11 +29,11 @@ Unit tests are written for you under `test_module.py`.
 
 ### Development
 
-For development, you can use `main.py` to test the functions.
+For development we are using `demographic_data_analyzer.py` and `demographic_data_analyzer.ipynb` to write functions.
 
 ### Testing 
 
-We imported the tests from `test_module.py` to `main.py` for our convenience. The tests will run automatically whenever we run the code.
+We imported the tests from `test_module.py` to `main.py` for our convenience. The tests will run automatically whenever we run the code written in `main.py`.
 
 ### Dataset Source
 
